@@ -11,5 +11,5 @@ Basic with Common Widgets Application in Flutter
 </div>
 
 ## Read Article
-[Common Widgets in Flutter - dev.to](https://dev.to/devkishor8007/common-widgets-in-flutter-3ak0)
+[Common Widgets in Flutter - dev.to](https://dev.to/devkishor8007/common-widgets-in-flutter-5a4c)
 
